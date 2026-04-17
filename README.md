@@ -57,12 +57,15 @@ This README tells the story of my journey as a developer.
 
 ---
 
-## 📈 Development Timeline
-2018 ██ MMT – First client project
-2022 ██ React + Django CRUD
-2023 ██ Docker + Azure + Railway deployment
-2024 ██ Interactive features (blog + quiz)
-2025 ██ AWS + Nuxt 4 LIVE + Production Django/DevOps 
+## 📈 Development Timeline (Visual)
+
+| Year | Progress | Milestone |
+| :--- | :--- | :--- |
+| 2018 | `[=====>....................] 20%` | First client project (MMT) |
+| 2022 | `[===========>..............] 40%` | React + Django CRUD |
+| 2023 | `[================>.........] 60%` | Docker + Azure deployment |
+| 2024 | `[====================>.....] 80%` | Interactive features |
+| 2025 | `[=======================>..] 95%` | Live Nuxt 4 + Production DevOps |
 
 
 ---
