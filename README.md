@@ -58,3 +58,34 @@ This README tells the story of my journey as a developer.
 ---
 
 ## 📈 Development Timeline
+2018 ██ MMT – First client project
+2022 ██ React + Django CRUD
+2023 ██ Docker + Azure + Railway deployment
+2024 ██ Interactive features (blog + quiz)
+2025 ██ AWS + Nuxt 4 LIVE + Production Django/DevOps 
+
+
+---
+
+## 🔧 What Makes This Profile Different
+
+- ✅ **Live, deployed application** – [senzoearl.github.io/homagine/](https://senzoearl.github.io/homagine/)
+- ✅ **Production-grade Django** – Docker, CI/CD, SSL, REST API
+- ✅ **Modern frontend** – Nuxt 4, Vue 3, Tailwind
+- ✅ **Cloud experience** – Azure, Railway, GitHub Pages, AWS
+- ✅ **7 years of consistent work** – 2018 to present
+- ✅ **Professional documentation** – Every repo has detailed READMEs
+
+---
+
+## 📫 Contact
+
+- **Email:** senzo.e.maseko@gmail.com
+- **GitHub:** [github.com/SenzoEarl](https://github.com/SenzoEarl)
+- **Live Project:** [senzoearl.github.io/homagine/](https://senzoearl.github.io/homagine/)
+
+---
+
+<p align="center">
+  <i>"From MMT (2018) to Homagine LIVE (2025) – always building, always learning."</i>
+</p>
