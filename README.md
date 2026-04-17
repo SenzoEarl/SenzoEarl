@@ -109,5 +109,3 @@ This README tells the story of my journey as a developer.
 Python      ████████████████████░░░░░░░░    ~55%
 JavaScript  ████████████░░░░░░░░░░░░░░░░    ~30%
 HTML/CSS    ██████░░░░░░░░░░░░░░░░░░░░░░    ~15%
-
----
