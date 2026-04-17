@@ -3,6 +3,10 @@ Hi there! Thanks for visiting my GitHub profile.
 This README tells the story of my journey as a developer.
 -->
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SenzoEarl&label=Profile+Views&color=00C7B7&style=flat-square" alt="Profile views">
+</p>
+
 <h1 align="center">👋 Hi, I'm Senzo Earl Maseko</h1>
 
 <h3 align="center">Full Stack Developer | Django | Docker | Vue/Nuxt | React</h3>
@@ -14,6 +18,9 @@ This README tells the story of my journey as a developer.
   <a href="https://github.com/SenzoEarl" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-SenzoEarl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="mailto:senzo.e.maseko@gmail.com">
+    <img src="https://img.shields.io/badge/Email-senzo.e.maseko%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
@@ -24,6 +31,19 @@ This README tells the story of my journey as a developer.
 
 **Homagine** – A Nuxt 4 tribute site honoring human potential.  
 *Built with Vue 3, Tailwind CSS, static generation, and deployed to GitHub Pages.*
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SenzoEarl&show_icons=true&theme=default&hide_border=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenzoEarl&layout=compact&hide_border=true" width="48%" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenzoEarl&theme=minimal&hide_border=true" width="95%" alt="Activity Graph">
+</p>
 
 ---
 
@@ -57,38 +77,40 @@ This README tells the story of my journey as a developer.
 
 ---
 
-## 📈 Development Timeline (Visual)
+## 📈 Development Timeline
 
-| Year | Progress | Milestone |
+| Year | Projects | Key Skills Gained |
 | :--- | :--- | :--- |
-| 2018 | `[=====>....................] 20%` | First client project (MMT) |
-| 2022 | `[===========>..............] 40%` | React + Django CRUD |
-| 2023 | `[================>.........] 60%` | Docker + Azure deployment |
-| 2024 | `[====================>.....] 80%` | Interactive features |
-| 2025 | `[=======================>..] 95%` | Live Nuxt 4 + Production DevOps |
-
+| **2018** | MMT | HTML, CSS, JavaScript, client communication |
+| **2022** | tribute-page, djangoCRUDProject | React, Django CRUD, Bootstrap |
+| **2023** | LEARNINADE-docker, NEWSLEE | Docker Compose, Azure deployment, multi-app Django |
+| **2024** | ZEROCOM | Interactive features (blog + quiz), data fixtures |
+| **2025** | familyTree, homagine, blognificent | AWS Elastic Beanstalk, Nuxt 4 / Vue 3, Tailwind, CI/CD, SSL, Nginx |
 
 ---
 
 ## 🔧 What Makes This Profile Different
 
-- ✅ **Live, deployed application** – [senzoearl.github.io/homagine/](https://senzoearl.github.io/homagine/)
-- ✅ **Production-grade Django** – Docker, CI/CD, SSL, REST API
-- ✅ **Modern frontend** – Nuxt 4, Vue 3, Tailwind
-- ✅ **Cloud experience** – Azure, Railway, GitHub Pages, AWS
-- ✅ **7 years of consistent work** – 2018 to present
-- ✅ **Professional documentation** – Every repo has detailed READMEs
+| Feature | Status |
+| :--- | :--- |
+| Live, deployed application | ✅ [senzoearl.github.io/homagine/](https://senzoearl.github.io/homagine/) |
+| Production-grade Django (Docker + CI/CD + SSL) | ✅ blognificent |
+| Modern frontend (Nuxt 4, Vue 3, Tailwind) | ✅ homagine |
+| Cloud deployment experience | ✅ Azure, Railway, GitHub Pages, AWS |
+| 7 years of consistent work | ✅ 2018 → present |
+| Professional documentation | ✅ Every repo has detailed READMEs |
 
 ---
 
-## 📫 Contact
+## 📈 Weekly Development Breakdown
 
-- **Email:** senzo.e.maseko@gmail.com
-- **GitHub:** [github.com/SenzoEarl](https://github.com/SenzoEarl)
-- **Live Project:** [senzoearl.github.io/homagine/](https://senzoearl.github.io/homagine/)
+<!-- START_SECTION:waka -->
+```text
+Python      ████████████████████░░░░░░░░    ~55%
+JavaScript  ████████████░░░░░░░░░░░░░░░░    ~30%
+HTML/CSS    ██████░░░░░░░░░░░░░░░░░░░░░░    ~15%
 
----
-
-<p align="center">
-  <i>"From MMT (2018) to Homagine LIVE (2025) – always building, always learning."</i>
-</p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SenzoEarl&theme=flat&no-frame=true&margin-w=15&row=1" width="100%" alt="GitHub Trophies"> </p>
+🔗 Connect With Me
+<p align="center"> <a href="https://github.com/SenzoEarl"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="mailto:senzo.e.maseko@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://senzoearl.github.io/homagine/"> <img src="https://img.shields.io/badge/Live_Project-00C7B7?style=for-the-badge&logo=github-pages&logoColor=white" alt="Live Project"> </a> </p><p align="center"> <img src="https://raw.githubusercontent.com/SenzoEarl/SenzoEarl/output/snake.svg" alt="Snake animation" width="100%"> </p><p align="center"> <i>"From MMT (2018) to Homagine LIVE (2025) – always building, always learning."</i> </p><p align="center"> <img src="https://raw.githubusercontent.com/SenzoEarl/SenzoEarl/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark"> </p> ```
