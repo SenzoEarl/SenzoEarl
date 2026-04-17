@@ -110,7 +110,4 @@ Python      ████████████████████░░�
 JavaScript  ████████████░░░░░░░░░░░░░░░░    ~30%
 HTML/CSS    ██████░░░░░░░░░░░░░░░░░░░░░░    ~15%
 
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SenzoEarl&theme=flat&no-frame=true&margin-w=15&row=1" width="100%" alt="GitHub Trophies"> </p>
-🔗 Connect With Me
-<p align="center"> <a href="https://github.com/SenzoEarl"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="mailto:senzo.e.maseko@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://senzoearl.github.io/homagine/"> <img src="https://img.shields.io/badge/Live_Project-00C7B7?style=for-the-badge&logo=github-pages&logoColor=white" alt="Live Project"> </a> </p><p align="center"> <img src="https://raw.githubusercontent.com/SenzoEarl/SenzoEarl/output/snake.svg" alt="Snake animation" width="100%"> </p><p align="center"> <i>"From MMT (2018) to Homagine LIVE (2025) – always building, always learning."</i> </p><p align="center"> <img src="https://raw.githubusercontent.com/SenzoEarl/SenzoEarl/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark"> </p> ```
+---
