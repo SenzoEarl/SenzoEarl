@@ -1,6 +1,6 @@
 # Hi, I'm Senzo Earl Maseko 👋
 
-Self-taught full stack developer · 7 years of project history · South Africa
+Self-taught full-stack developer · 7 years of project history · South Africa
 _I don't just write code. I containerize, automate, secure, and deploy._
 
 ## 🛠 Tech Stack
