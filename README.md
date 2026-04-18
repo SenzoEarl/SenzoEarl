@@ -21,7 +21,7 @@ Self-taught full stack developer · South Africa · 2018–2025
 |---|---|---|
 | [**blognificent**](https://github.com/SenzoEarl/blognificent) | Django 5.2 · Docker Compose · DRF · Nginx · CI/CD · SSL | Production-ready |
 | [**homagine**](https://senzoearl.github.io/homagine/) ↗ | Nuxt 4 · Vue 3 · Tailwind · GitHub Pages | **Live** |
-| [**LEARNINADE-docker**](https://github.com/SenzoEarl/LEARNINADE-docker) | Django · Docker · Azure Pipelines · Railway | Complete |
+| [**LEARNINADE**](https://github.com/SenzoEarl/LEARNINADE-docker) | Django · Docker · Azure Pipelines · Railway | Complete |
 | [**ZEROCOM**](https://github.com/SenzoEarl/ZEROCOM) | Django · JavaScript | Complete |
 | [**familyTree**](https://github.com/SenzoEarl/familyTree) | Django · AWS Elastic Beanstalk | Complete |
 | [**tribute-page**](https://github.com/SenzoEarl/tribute-page) | React 18 · Tailwind · GitHub Actions | Complete |
