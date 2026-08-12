@@ -36,3 +36,27 @@ Self-taught full stack developer · South Africa
 ---
 
 ## Timeline
+
+2018 First client project — HTML, CSS, JS · Msotho Mswati Trading
+2022 Returned to development — React 18 · Django CRUD · Bootstrap
+2023 Docker Compose · Azure Pipelines · Railway · multi-app Django
+2024 Interactive features — blog, quiz systems, data fixtures
+2025 Nuxt 4 · Vue 3 · AWS Beanstalk · CI/CD · SSL/TLS · Nginx
+
+Building projects since 2018, alongside formal roles in software development, records management, and cybersecurity.
+
+---
+
+## Numbers
+
+- **13** public repositories · **9** featured projects
+- **5** cloud/deployment platforms — AWS · Azure · Railway · GitHub Pages · Vercel
+- **3** live deployed projects
+
+---
+
+## Contact
+
+🌐 [senzo-earl.vercel.app](https://senzo-earl.vercel.app/)
+📧 senzo.e.maseko@gmail.com
+🐙 [github.com/SenzoEarl](https://github.com/SenzoEarl)
