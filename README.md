@@ -7,15 +7,6 @@ Self-taught full stack developer · South Africa
 
 ---
 
-## Recent activity
-
-- Active in PHP and backend tooling with [Aldelibrary](https://github.com/SenzoEarl/Aldelibrary) and [booking_system](https://github.com/SenzoEarl/booking_system)
-- Expanding into internal data capture and process automation with [internal-audit](https://github.com/SenzoEarl/internal-audit)
-- Building portfolio and web presence work with [portfolio](https://github.com/SenzoEarl/portfolio) and [homagine](https://github.com/SenzoEarl/homagine)
-- Continuing experimentation and learning across [revibe-awareness-bot](https://github.com/SenzoEarl/revibe-awareness-bot), [blognificent](https://github.com/SenzoEarl/blognificent), and [LEARNINADE](https://github.com/SenzoEarl/LEARNINADE)
-
----
-
 ## Projects
 
 | Project | Stack | Live | Status |
@@ -43,7 +34,7 @@ Self-taught full stack developer · South Africa
 
 **DevOps** `Docker Compose` `Nginx` `Gunicorn` `GitHub Actions` `Let's Encrypt` `HSTS` `Bandit`
 
-**Frontend** `Nuxt 4` `Vue 3` `React 18` `Tailwind CSS` `JavaScript ES6` `Bootstrap 5`
+**Frontend** `Nuxt 4` `Vue 3` `React 18` `TypeScript` `Tailwind CSS` `JavaScript ES6` `Bootstrap 5`
 
 **Cloud** `AWS Elastic Beanstalk` `Azure Pipelines` `Railway` `GitHub Pages` `Vercel`
 
@@ -56,7 +47,7 @@ Self-taught full stack developer · South Africa
 2023 Docker Compose · Azure Pipelines · Railway · multi-app Django
 2024 Interactive features — blog, quiz systems, data fixtures
 2025 Nuxt 4 · Vue 3 · AWS Beanstalk · CI/CD · SSL/TLS · Nginx
-2025+ PHP tooling, booking workflows, data capture, and portfolio expansion
+2025+ PHP projects, booking workflows, internal data capture, and portfolio expansion
 
 Building projects since 2018, alongside formal roles in software development, records management, and cybersecurity.
 
@@ -64,7 +55,7 @@ Building projects since 2018, alongside formal roles in software development, re
 
 ## Numbers
 
-- **15** public repositories · **10** active or featured projects
+- **15** public repositories · **9** featured projects
 - **5** cloud/deployment platforms — AWS · Azure · Railway · GitHub Pages · Vercel
 - **3** live deployed projects
 
